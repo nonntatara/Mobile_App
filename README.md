@@ -4,10 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-That's a good start, but a professional README.md should be much more detailed and structured, especially for an application that manages DVR/NVR systems, storage configuration, and complex alerts.
-
-Here is a significantly enhanced and detailed README.md based on the features you described, formatted for maximum clarity and informational value.
-
 (Security Integration)
 
 🌟 Project Overview
