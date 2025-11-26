@@ -8,11 +8,14 @@ That's a good start, but a professional README.md should be much more detailed a
 
 Here is a significantly enhanced and detailed README.md based on the features you described, formatted for maximum clarity and informational value.
 
-📱 mobile_app_pos (Point-of-Sale / P.O.S. - Security Integration)
+(Security Integration)
+
 🌟 Project Overview
+
 This is a Flutter application designed to serve as a Control and Management Interface for Digital Video Recorders (DVRs) and Network Video Recorders (NVRs). The application's core functionality is to provide users with remote control over their security surveillance system, critically enabling centralized video/image storage configuration across various platforms and real-time intelligent motion/action alerting.
 
 ✨ Key Features
+
 Remote DVR/NVR Control: Full remote management capabilities for connected surveillance hardware (e.g., live view access, playback control, camera settings).
 
 Flexible Data-Center Configuration:
@@ -39,7 +42,9 @@ SMS to a configured phone number.
 
 Telegram messages for instant push notifications.
 
+
 🚀 Getting Started
+
 Prerequisites
 Flutter SDK: Ensure you have the latest stable version installed.
 
