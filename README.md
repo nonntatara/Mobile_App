@@ -1,9 +1,3 @@
-# mobile_app_pos
-
-A new Flutter project.
-
-## Getting Started
-
 (Security Integration)
 
 🌟 Project Overview
